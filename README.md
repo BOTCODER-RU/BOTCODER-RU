@@ -1,4 +1,5 @@
-# BOTCODER
+<h1 align="center">Hi, I'm BOTCODER</h1>
+
 
 # Русская версия
 
@@ -8,7 +9,10 @@
 - 🎓 Студент 3 курса по специальности «Системный администратор»
 - ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux)
  Пользователь Linux и Windows
-- 💻 Программирую на языках: Python, C, Node.js, C++, C#, Rust
+- ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+ Программирую на языках: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+ Python, ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+ C, Node.js, C++, C#, Rust
 - ⚙️ Инженер-программист
 - 🌍 Разрабатываю open source проекты и библиотеки
 
@@ -38,3 +42,5 @@
 
 - Discord: `@huang_zongxian`
 - Reddit: `-`
+
+  <p align="center">Linux • VSCODE • C Devloper </p>
