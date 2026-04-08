@@ -24,7 +24,7 @@
 - Reddit: `-`
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BOTCODERТК&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BOTCODER-RUТК&show_icons=true&theme=dark)
 
 
 # English Version
