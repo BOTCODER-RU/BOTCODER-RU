@@ -1,16 +1,38 @@
-## Hi there 👋
+#BOTCODER
+# Русская версия
 
-<!--
-**BOTCODER-RU/BOTCODER-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+- 💼 4 года опыта в сфере операционных систем и приложений
+- 🎓 Студент 3 курса по специальности «Системный администратор»
+- 🐧🪟 Пользователь Linux и Windows
+- 💻 Программирую на языках: Python, C, Node.js, C++, C#, Rust
+- ⚙️ Инженер-программист
+- 🌍 Разрабатываю open source проекты и библиотеки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Социальные сети
+
+- Discord: `@huang_zongxian`
+- Reddit: `-`
+
+---
+
+# English Version
+
+## About Me
+
+- 💼 4 years of experience in Operating Systems and Applications
+- 🎓 3rd year student majoring in System Administration
+- 🐧🪟 Linux and Windows user
+- 💻 Programming in: Python, C, Node.js, C++, C#, Rust
+- ⚙️ Software Engineer
+- 🌍 Developing open source projects and libraries
+
+---
+
+## Socials
+
+- Discord: `@huang_zongxian`
+- Reddit: `-`
