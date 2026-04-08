@@ -6,7 +6,8 @@
 
 - 💼 4 года опыта в сфере операционных систем и приложений
 - 🎓 Студент 3 курса по специальности «Системный администратор»
-- 🐧🪟 Пользователь Linux и Windows
+- ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+ Пользователь Linux и Windows
 - 💻 Программирую на языках: Python, C, Node.js, C++, C#, Rust
 - ⚙️ Инженер-программист
 - 🌍 Разрабатываю open source проекты и библиотеки
